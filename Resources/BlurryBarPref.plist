@@ -71,6 +71,7 @@
 				<string>Blurried - most blurry</string>
 				<string>Blurried - in between</string>
 				<string>Blurried - clearer</string>
+				<string>Battery status</string>
 			</array>
 			<key>validValues</key>
 			<array>
@@ -86,6 +87,7 @@
 				<integer>9</integer>
 				<integer>10</integer>
 				<integer>11</integer>
+				<integer>12</integer>
 			</array>
 		</dict>
 	</array>
